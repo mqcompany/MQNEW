@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\User\\Documents\\GitHub\\NewRepository\\MQ1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "C:\\Users\\butus\\AndroidStudioProjects\\MQNEW\\MQ1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\1ff01d3205331f52182dbac73293ca4a\\res\\values-de\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "203",
-                        "endOffsets": "450"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4063",
-                        "endColumns": "203",
-                        "endOffsets": "4262"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\7f393a028238e27360ab0c69bce7f994\\res\\values-de\\values.xml",
+                    "source": "C:\\Users\\butus\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\72cc7847da8208a58da502f28cd3c95d\\res\\values-de\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\1eb59e518097b3e0248c3185f345b614\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\butus\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\bd251e5fd5544045d8e06f5a32709039\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "203",
+                        "endOffsets": "450"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4063",
+                        "endColumns": "203",
+                        "endOffsets": "4262"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\butus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a59a33c052c375f57acf0d21357af01\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2206c59a8039e9ba4a8cd67d54e63c88\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\butus\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\5b7d3ca6fb0e7829de0c6f47cf35e107\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

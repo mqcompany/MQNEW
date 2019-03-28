@@ -17,10 +17,10 @@
         android:background="@color/White"
         android:layout_gravity="bottom"
         android:layout_alignParentBottom="true"
-        app:itemIconTint="@color/Black"
+        app:itemIconTint="@color/color_bottonview"
         app:itemTextColor="@color/White"
         app:menu="@menu/buttom_menu"
-        app:itemIconSize="@android:dimen/app_icon_size"
+        app:itemIconSize="40dp"
         />
     <FrameLayout
         android:layout_width="match_parent"
