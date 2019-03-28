@@ -1,4 +1,4 @@
-#Thu Mar 28 14:11:23 GMT+07:00 2019
-base.0=E\:\\android\\MQNEW\\MQ1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Thu Mar 28 11:10:59 GMT+07:00 2019
+base.0=C\:\\Users\\User\\Documents\\GitHub\\NewRepository\\MQ1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

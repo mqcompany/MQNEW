@@ -1201,7 +1201,6 @@ id ifRoom
 id imag_lenta
 id image
 id imageView
-id imageView2
 id info
 id invisible
 id italic
