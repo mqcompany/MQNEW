@@ -7,6 +7,7 @@
     android:layout_marginLeft="18dp"
     android:backgroundTint="#FFFAFA"
     android:layout_marginTop="15dp"
+    app:cardCornerRadius="25dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     >
 <LinearLayout
